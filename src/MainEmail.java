@@ -1,41 +1,24 @@
-import javafx.scene.control.Button;
-import javafx.scene.control.TextField;
+import Email.JavaMailService;
+import Tool.Configuration;
 
-import javax.mail.Message;
 import javax.mail.MessagingException;
-import javax.mail.Session;
-import javax.mail.Transport;
-import javax.mail.internet.InternetAddress;
-import javax.mail.internet.MimeMessage;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.Collections;
-import java.util.Properties;
+import java.util.Arrays;
 
+/**
+ * Модуля для тестирования отправки SMTP сообщения
+ */
 public class MainEmail {
-    public static void main(String[] args) throws IOException, MessagingException {
-//        final Properties properties = new Properties();
-//        properties.load(new FileInputStream(new File("mail.properties")));
-//
-//        Session mailSession = Session.getDefaultInstance(properties);
-//        MimeMessage message = new MimeMessage(mailSession);
-//
-//        message.setFrom(new InternetAddress("helloworld25231")); // от кого
-//        message.addRecipient(Message.RecipientType.TO, new InternetAddress("helloworld2314@yandex.ru")); // кому отпровляем
-//        message.setSubject("hello"); // Тема
-//        message.setText("text"); // Текст
-//
-//        Transport transport = mailSession.getTransport();
-//        transport.connect("helloworld25231@gmail.com", "@helloworld25231!");
-//        transport.sendMessage(message, message.getAllRecipients());
-//        transport.close();
-
+    public static void main(String[] args) {
         String from = "helloworld25231@gmail.com";
         String to = "helloworld25231@gmail.com";
-        String subject = "Your PDF";
-        String text = "Here there is your <b>PDF</b> file!";
+        String subject = "Hello World";
+        String text = "Hello World";
 
-        JavaMailService.send(from, Collections.singleton(to), subject, text);
+        try {
+            JavaMailService.send(from, Arrays.asList(to), subject, text);
+        } catch (MessagingException | IOException e) {
+            System.out.println(e.getMessage());
+        }
     }
 }

@@ -2,6 +2,7 @@ package Memento;
 
 import javafx.scene.control.TextField;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -22,5 +23,9 @@ public class MementoTextField {
 
     public void clear(){
         map.clear();
+    }
+
+    public int size(){
+        return map.size();
     }
 }
