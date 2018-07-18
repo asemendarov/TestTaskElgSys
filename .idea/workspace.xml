@@ -7,27 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffbf37e5-8f9d-4cfb-8719-e7e85909ee72" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tool/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTaskElgSys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestTaskElgSys.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mail.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Configuration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaMailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Email/JavaMailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Memento/MementoTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Memento/MementoTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Window/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Window/window.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/window.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/СhangeHTML/Substitution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTML/Substitution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,14 +22,10 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Window/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+            <state relative-caret-position="2720">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1778#1779#0" expanded="true" />
-                <element signature="e#1806#1807#0" expanded="true" />
-                <element signature="e#5900#5901#0" expanded="true" />
-                <element signature="e#5931#5932#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,8 +34,8 @@
       <file leaf-file-name="mail.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mail.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="32">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,7 +43,7 @@
       <file leaf-file-name="window.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Window/window.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-775">
+            <state relative-caret-position="368">
               <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
             </state>
           </provider>
@@ -115,24 +91,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TestTaskElgSys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestTaskElgSys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestTaskElgSys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestTaskElgSys" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -144,6 +104,22 @@
               <item name="TestTaskElgSys" type="58d84e3e:PackageViewProjectNode" />
               <item name="TestTaskElgSys" type="616d4139:PackageViewModuleNode" />
               <item name="FileHelper" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestTaskElgSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestTaskElgSys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestTaskElgSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestTaskElgSys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,12 +147,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MainApplication">
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainApplication" />
       <module name="TestTaskElgSys" />
+      <option name="VM_PARAMETERS" value="--add-modules=java.activation" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MainEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainEmail" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainEmail" />
       <module name="TestTaskElgSys" />
       <option name="VM_PARAMETERS" value="--add-modules=java.activation" />
@@ -227,12 +204,6 @@
       <item itemvalue="Application.MainEmail" />
       <item itemvalue="Application.MainApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainApplication" />
-        <item itemvalue="Application.MainEmail" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -249,6 +220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -259,11 +231,11 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32868218" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.29147288" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.29147288" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15885799" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.15885799" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -289,14 +261,35 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Window/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3184">
+          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window/window.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1152">
           <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1778#1779#0" expanded="true" />
-            <element signature="e#1806#1807#0" expanded="true" />
-            <element signature="e#5900#5901#0" expanded="true" />
-            <element signature="e#5931#5932#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -432,10 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="2994" column="4" selection-start-line="2994" selection-start-column="4" selection-end-line="2994" selection-end-column="4" />
-          <folding>
-            <element signature="e#9011#9012#0" expanded="true" />
-            <element signature="e#9061#9062#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,7 +543,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Window/window.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-775">
+        <state relative-caret-position="368">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
@@ -562,22 +551,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Window/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+        <state relative-caret-position="2720">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1778#1779#0" expanded="true" />
-            <element signature="e#1806#1807#0" expanded="true" />
-            <element signature="e#5900#5901#0" expanded="true" />
-            <element signature="e#5931#5932#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mail.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="32">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -600,7 +585,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
